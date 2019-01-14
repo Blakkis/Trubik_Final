@@ -1,0 +1,57 @@
+##### Face the Orange(White on Top)
+##### Cross 
+BackC
+Left
+RightC
+Back2
+Down2
+Front2
+BackC
+##### F2L 
+Down
+BackC
+LeftC
+Down2
+Left
+Back
+Down2
+Front
+Down
+FrontC
+DownC
+Right
+FrontC
+RightC
+Front
+LeftC
+Down
+Left
+DownC
+Back
+Down
+BackC
+Right
+FrontC
+RightC
+Down
+Right
+Front
+RightC
+##### PLL 
+Left
+DownC
+Right
+Down2
+LeftC
+Down
+RightC
+Left
+DownC
+Right
+Down2
+LeftC
+Down
+RightC
+Down2
+
+Total moves: 51
